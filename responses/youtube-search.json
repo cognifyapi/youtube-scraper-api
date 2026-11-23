@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "query": "Mr Beast",
+  "data": {
+    "channels": [],
+    "videos": [
+      {
+        "videoId": "Af6i6ChAVTw",
+        "title": "Last To Leave Mansion, Keeps It",
+        "author": "MrBeast",
+        "published": "3 months ago",
+        "duration": "57:51",
+        "viewCount": "142,280,353 views",
+        "viewCountSimple": "142 million views",
+        "url": "https://www.youtube.com/watch?v=Af6i6ChAVTw",
+        "thumbnail": [
+          {
+            "url": "https://i.ytimg.com/vi/Af6i6ChAVTw/hq720_custom_1.jpg?sqp=CITg-tcG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9EgvdiUtXIAQrpvIra7-d-zSF7A",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "summary": "Participants who criticized MrBeast's challenges compete in a high-stakes mansion challenge. [Shortened]",
+        "channelAvatar": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s68-c-k-c0x00ffffff-no-rj",
+        "isVerified": true
+      },
+      {
+        "videoId": "Qtl8lJwbd4g",
+        "title": "Escape 100 Cops, Win $500,000",
+        "author": "MrBeast",
+        "published": "2 months ago",
+        "duration": "20:29",
+        "viewCount": "130,662,740 views",
+        "viewCountSimple": "130 million views",
+        "url": "https://www.youtube.com/watch?v=Qtl8lJwbd4g",
+        "thumbnail": [
+          {
+            "url": "https://i.ytimg.com/vi/Qtl8lJwbd4g/hq720_custom_1.jpg?sqp=CITg-tcG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyaxgw7yW1YjfH8Lcy-gUL4rfUIQ",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "summary": "MrBeast and four friends try to evade a professional police force during a high-stakes chase. [Shortened]",
+        "channelAvatar": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s68-c-k-c0x00ffffff-no-rj",
+        "isVerified": true
+      }
+    ],
+    "horizontaVideos": [],
+    "shortsVideos": [
+      [
+        {
+          "videoId": "sHpEqeSByPI",
+          "title": "Unboxing The World’s Largest Toy",
+          "views": "25M views",
+          "accessibility": "Unboxing The World’s Largest Toy, 25 million views - play Short",
+          "thumbnail": "https://i.ytimg.com/vi/sHpEqeSByPI/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAw4IARUAAIhCcAHAAQY=&rs=AOn4CLB2V7YWBrDdLVa4cnMdEBvQYu00hA",
+          "url": "https://www.youtube.com/shorts/sHpEqeSByPI"
+        },
+        {
+          "videoId": "kPI9Mc35mOg",
+          "title": "Trap Door Roulette",
+          "views": "108M views",
+          "accessibility": "Trap Door Roulette, 108 million views - play Short",
+          "thumbnail": "https://i.ytimg.com/vi/kPI9Mc35mOg/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAw4IARUAAIhCcAHAAQY=&rs=AOn4CLCFqW_X3pokjvblVc71mCamXfPyhQ",
+          "url": "https://www.youtube.com/shorts/kPI9Mc35mOg"
+        }
+      ]
+    ]
+  }
+}
