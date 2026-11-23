@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "query": "Mr Beast",
+  "data": {
+    "videos": [
+      {
+        "videoId": "Af6i6ChAVTw",
+        "title": "Last To Leave Mansion, Keeps It",
+        "author": "MrBeast",
+        "published": "3 months ago",
+        "duration": "57:51",
+        "viewCount": "142,281,032 views",
+        "viewCountSimple": "142 million views",
+        "url": "https://www.youtube.com/watch?v=Af6i6ChAVTw",
+        "thumbnail": [
+          {
+            "url": "https://i.ytimg.com/vi/Af6i6ChAVTw/hq720_custom_1.jpg?sqp=CLDi-tcG-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPHXbj5n0m-ny-5qWgCj7qbfJfkg",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "summary": "Participants who criticized MrBeast's challenges compete in a high-stakes mansion challenge. [Shortened]",
+        "channelAvatar": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s68-c-k-c0x00ffffff-no-rj",
+        "isVerified": true
+      },
+      {
+        "videoId": "9kmw3mImC8E",
+        "title": "I Opened A Theme Park",
+        "author": "MrBeast 2",
+        "published": "11 months ago",
+        "duration": "5:43",
+        "viewCount": "45,867,584 views",
+        "viewCountSimple": "45 million views",
+        "url": "https://www.youtube.com/watch?v=9kmw3mImC8E",
+        "thumbnail": [
+          {
+            "url": "https://i.ytimg.com/vi/9kmw3mImC8E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhuzcKn2mhh-RhXBAirMageCKKXQ",
+            "width": 360,
+            "height": 202
+          }
+        ],
+        "summary": "MrBeast opens a game-filled theme park based on popular challenges. [Shortened]",
+        "channelAvatar": "https://yt3.ggpht.com/Jd7IA_TOGrW-oXKgX-m5CBJB0tqMemQ-zhZZYmCJxF4w06dcNREG89dHbR_GGLra1TzSJqoKjFM=s68-c-k-c0x00ffffff-no-rj",
+        "isVerified": true
+      }
+    ],
+    "horizontaVideos": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "query": "Mr Beast",
+  "data": {
+    "channel": [
+      {
+        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "title": "MrBeast",
+        "thumbnail": [
+          {
+            "url": "//yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s88-c-k-c0x00ffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          }
+        ],
+        "description": "SUBSCRIBE FOR A COOKIE! New MrBeast or MrBeast Gaming video every single Saturday at noon eastern time!",
+        "subscribers": "527M subscribers",
+        "handle": "@MrBeast",
+        "isVerified": true
+      }
+    ]
+  }
+}

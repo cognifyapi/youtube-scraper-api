@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "query": {
+    "videoId": "Af6i6ChAVTw"
+  },
+  "data": {
+    "id": "Af6i6ChAVTw",
+    "title": "Last To Leave Mansion, Keeps It",
+    "author": "MrBeast",
+    "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+    "profileUrl": "http://www.youtube.com/@MrBeast",
+    "category": "Entertainment",
+    "description": "MrBeast's mansion challenge video with promotional and channel information. [Shortened]",
+    "keywords": [],
+    "canonicalUrl": "https://www.youtube.com/watch?v=Af6i6ChAVTw",
+    "thumbnail": "https://i.ytimg.com/vi/Af6i6ChAVTw/maxresdefault.jpg",
+    "embedUrl": "https://www.youtube.com/embed/Af6i6ChAVTw",
+    "views": "142281032",
+    "likes": "2508529",
+    "durationSeconds": "3471",
+    "publishDate": "2026-08-08T09:00:01-07:00",
+    "uploadDate": "2026-08-08T09:00:01-07:00"
+  }
+}

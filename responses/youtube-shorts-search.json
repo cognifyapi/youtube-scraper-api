@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "query": "Mr Beast",
+  "data": {
+    "shorts": [
+      [
+        {
+          "videoId": "sHpEqeSByPI",
+          "title": "Unboxing The World’s Largest Toy",
+          "views": "25M views",
+          "accessibility": "Unboxing The World’s Largest Toy, 25 million views - play Short",
+          "thumbnail": "https://i.ytimg.com/vi/sHpEqeSByPI/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB2V7YWBrDdLVa4cnMdEBvQYu00hA",
+          "url": "https://www.youtube.com/shorts/sHpEqeSByPI"
+        },
+        {
+          "videoId": "kPI9Mc35mOg",
+          "title": "Trap Door Roulette",
+          "views": "108M views",
+          "accessibility": "Trap Door Roulette, 108 million views - play Short",
+          "thumbnail": "https://i.ytimg.com/vi/kPI9Mc35mOg/sardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCFqW_X3pokjvblVc71mCamXfPyhQ",
+          "url": "https://www.youtube.com/shorts/kPI9Mc35mOg"
+        }
+      ]
+    ]
+  }
+}

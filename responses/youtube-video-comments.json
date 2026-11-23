@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "query": {
+    "videoId": "Af6i6ChAVTw"
+  },
+  "result": 20,
+  "commentData": [
+    {
+      "key": "EhpVZ3pDUThLWnAxZVA4QWhnSEdsNEFhQUJBZyAoKAE%3D",
+      "properties": {
+        "commentId": "UgzCQ8KZp1eP8AhgHGl4AaABAg",
+        "likeCount": "69K likes",
+        "replyCount": "1.1K replies",
+        "publishedTime": "3 months ago",
+        "content": {
+          "content": "what's the first thing you'd do if you won a mansion?"
+        },
+        "avatar": {
+          "image": {
+            "sources": []
+          }
+        }
+      },
+      "commentAuthor": {
+        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "displayName": "@MrBeast",
+        "avatarThumbnailUrl": "https://yt3.ggpht.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": true,
+        "isCurrentUser": false,
+        "isCreator": true,
+        "isArtist": false
+      }
+    },
+    {
+      "key": "EhpVZ3p4OWJzaG1qS2lTVU16dndoNEFhQUJBZyAoKAE%3D",
+      "properties": {
+        "commentId": "Ugzx9bshmjKiSUMzvwh4AaABAg",
+        "likeCount": "16K likes",
+        "replyCount": "27 replies",
+        "publishedTime": "1 month ago",
+        "content": {
+          "content": "in 2 minutes of this video i understand why receiving education is a good thing"
+        },
+        "avatar": {
+          "image": {
+            "sources": []
+          }
+        }
+      },
+      "commentAuthor": {
+        "channelId": "UCPSgY7wJHkNnd_-NkBeeL4Q",
+        "displayName": "@iamdanteking",
+        "avatarThumbnailUrl": "https://yt3.ggpht.com/ikT9yIT5kO6cPue8e_Sb6szx84hGyoe0RV6C-ja8w-u148iQGMb49yiiOC00t1BFkATZ2to8=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isCurrentUser": false,
+        "isCreator": false,
+        "isArtist": false
+      }
+    }
+  ]
+}

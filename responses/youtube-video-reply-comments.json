@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "videoId": "Af6i6ChAVTw",
+  "data": [
+    {
+      "key": "EjFVZ3pDUThLWnAxZVA4QWhnSEdsNEFhQUJBZy5BX0ZrN2hpdUNBZkFfRmtQb1hsVjNtICgoAQ%3D%3D",
+      "properties": {
+        "commentId": "UgzCQ8KZp1eP8AhgHGl4AaABAg.A_Fk7hiuCAfA_FkPoXlV3m",
+        "likeCount": "95 likes",
+        "replyCount": "0 replies",
+        "publishedTime": "3 months ago",
+        "content": {
+          "content": "good job."
+        },
+        "avatar": {
+          "image": {
+            "sources": []
+          }
+        }
+      },
+      "commentAuthor": {
+        "channelId": "UCTG2UUBoUwy-MyC98SOPAcA",
+        "displayName": "@finnatep",
+        "avatarThumbnailUrl": "https://yt3.ggpht.com/SCp5RP4kb6V7hCVX8ZfHNOTVdTF89C8Xyh9YzQAhjr8ik3NiPwy6AjRnfUBwgLwISL6V299GPw=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isCurrentUser": false,
+        "isCreator": false,
+        "isArtist": false
+      }
+    },
+    {
+      "key": "EjFVZ3pDUThLWnAxZVA4QWhnSEdsNEFhQUJBZy5BX0ZrN2hpdUNBZkFfRmtSOXRTWmRPICgoAQ%3D%3D",
+      "properties": {
+        "commentId": "UgzCQ8KZp1eP8AhgHGl4AaABAg.A_Fk7hiuCAfA_FkR9tSZdO",
+        "likeCount": "1.3K likes",
+        "replyCount": "2 replies",
+        "publishedTime": "3 months ago (edited)",
+        "content": {
+          "content": "Probably eat it"
+        },
+        "avatar": {
+          "image": {
+            "sources": []
+          }
+        }
+      },
+      "commentAuthor": {
+        "channelId": "UCMaPeugVJl1v3lIIVVRrtSA",
+        "displayName": "@SeanPulera",
+        "avatarThumbnailUrl": "https://yt3.ggpht.com/i-P2KxeZh557ChG0PFGSRGEUf_BLcQg9ZX-qZNTIYldjCBBljoZ8mxOP_jJoI3BlVvBmDxPzjA=s88-c-k-c0x00ffffff-no-rj",
+        "isVerified": false,
+        "isCurrentUser": false,
+        "isCreator": false,
+        "isArtist": false
+      }
+    }
+  ]
+}
